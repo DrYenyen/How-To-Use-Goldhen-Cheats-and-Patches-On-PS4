@@ -37,6 +37,8 @@ Some cheats require MC or Master Code to be enabled
 Go into the PS4 Cheats Manager    
 And Select **Patches**    
 ![-](imgs/8.jpg)    
-Once inside press Triangle to filter and find all the Patches compatible with your currently installed games   
-The same can be done inside the Cheats menu to view what cheats are available for your game   
+**Once inside press Triangle to filter and find all the Patches compatible with your currently installed games**    
+    
+	
+**The same can be done inside the Cheats menu to view what cheats are available for your game**      
 ![-](imgs/9.jpg)    
