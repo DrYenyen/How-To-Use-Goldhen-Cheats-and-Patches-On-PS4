@@ -34,4 +34,9 @@ Once you Launch a game you can Long Press the PS button and the cheat menu will 
 Some games have multiple pages of cheats and you can scroll through them using R1 and L1    
 Some cheats require MC or Master Code to be enabled    
 14. How to use Patches    
-Go into the PS4 Cheats Manager  
+Go into the PS4 Cheats Manager    
+And Select **Patches**    
+![-](imgs/8.jpg)    
+Once inside press Triangle to filter and find all the Patches compatible with your currently installed games   
+The same can be done inside the Cheats menu to view what cheats are available for your game   
+![-](imgs/8.jpg)    
