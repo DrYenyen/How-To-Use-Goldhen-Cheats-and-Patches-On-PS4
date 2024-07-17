@@ -17,8 +17,8 @@ How to use cheats on PS4 games
 9. Run PS4 Cheats Manager from the home screen   
 10. On running PS4 Cheats Manager it usually sniffs out the 3, zip files and pulls data from them to make sure everything is where it should be you can do the following   
 When you load up into the app go into the Update option
-![-](imgs/3.JPG)        
+![-](imgs/3.jpg)        
 Once inside scroll down with the D-Pad to USB 0, at the bottom and select it
-![-](imgs/4.JPG)     
+![-](imgs/4.jpg)     
 Select each zip and wait while it loads data from it    
-![-](imgs/6.JPG)       
+![-](imgs/6.jpg)       
