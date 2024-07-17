@@ -6,11 +6,19 @@ How to use cheats on PS4 games
 2. Download the Pathes Zip from this link > [Patches](https://github.com/GoldHEN/GoldHEN_Patch_Repository/raw/gh-pages/patch1.zip)  
 3. Download the Plugins Zip from this link > [Plugins](https://github.com/GoldHEN/GoldHEN_Plugins_Repository/releases/download/1.188/GoldPlugins-1.188-caacf011.zip)           
 3. Take a USB Drive and format it to EXFAT        
-4. Put both Zip files on the USB Drive     
+4. Put the 3, Zip files on the USB Drive     
 5. Download and install the PS4 Cheats Manager Homebrew pkg from PKG Zone >[PS4 Cheats Manager](https://pkg-zone.com/details/CHTM00777)   
 6. Put the PS4_CHTM00777 pkg on the USB Drive    
 7. Plug the USB Drive into your PS4 and Jailbreak via your preferred method or via one of the guides below   
 # [How to use a GUI tool to run PPPwn on Windows](https://github.com/DrYenyen/PPPwnGo-Guide)    
 # [How to set up Raspberry-Pi on Windows for PPPwn](https://github.com/DrYenyen/PPPwn-Setup-Guide-For-Raspberry-Pi)                  
 8. Install the  PS4_CHTM00777 pkg (PS4 Cheats Manager)  if you dont know how a guide below covers USB FPKG installation    
-# [How to install FPKGS](https://github.com/DrYenyen/How-To-Install-PS4-FPKGS)     
+# [How to install FPKGS](https://github.com/DrYenyen/How-To-Install-PS4-FPKGS)       
+9. Run PS4 Cheats Manager from the home screen   
+10. On running PS4 Cheats Manager it usually sniffs out the 3, zip files and pulls data from them to make sure everything is where it should be you can do the following   
+When you load up into the app go into the Update option
+![-](imgs/3.JPG)        
+Once inside scroll down with the D-Pad to USB 0, at the bottom and select it
+![-](imgs/4.JPG)     
+Select each zip and wait while it loads data from it    
+![-](imgs/6.JPG)       
