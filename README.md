@@ -10,5 +10,6 @@ How to use cheats on PS4 games
 6. Put the PS4_CHTM00777 pkg on the USB Drive    
 7. Plug the USB Drive into your PS4 and Jailbreak via your preferred method or via one of the guides below   
 # [How to use a GUI tool to run PPPwn on Windows](https://github.com/DrYenyen/PPPwnGo-Guide)    
-# [How to set up Raspberry-Pi on Windows for PPPwn](https://github.com/DrYenyen/PPPwn-Setup-Guide-For-Raspberry-Pi)            
-8. Install the  PS4_CHTM00777 pkg (PS4 Cheats Manager)   
+# [How to set up Raspberry-Pi on Windows for PPPwn](https://github.com/DrYenyen/PPPwn-Setup-Guide-For-Raspberry-Pi)              
+8. Install the  PS4_CHTM00777 pkg (PS4 Cheats Manager)  if you dont know how a guide below covers USB FPKG installation    
+# [How to install FPKGS](https://github.com/DrYenyen/How-To-Install-PS4-FPKGS)     
