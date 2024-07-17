@@ -21,4 +21,17 @@ When you load up into the app go into the Update option
 Once inside scroll down with the D-Pad to USB 0, at the bottom and select it
 ![-](imgs/4.jpg)     
 Select each zip and wait while it loads data from it    
-![-](imgs/6.jpg)       
+![-](imgs/6.jpg)         
+Then Press Circle to go Back until you are asked if you want to **Exit to XMB?** then choose Yes   
+11. Back in the home screen  from the top left choose the Goldhen Icon   
+12. Once inside go  into **Cheat Settings** and match up all the settings as shown below   
+![-](imgs/1.jpg)    
+Then back out and go into **Plugin Settings** and match up all the settings as shown below   
+![-](imgs/7.jpg)   
+**Notice** if you cannot tick **Enable Game Patch Plugin** then you have not setup the PS4 Cheats Manager app correctly      
+13. How to use Cheats in game   
+Once you Launch a game you can Long Press the PS button and the cheat menu will show up   
+Some games have multiple pages of cheats and you can scroll through them using R1 and L1    
+Some cheats require MC or Master Code to be enabled    
+14. How to use Patches    
+Go into the PS4 Cheats Manager  
