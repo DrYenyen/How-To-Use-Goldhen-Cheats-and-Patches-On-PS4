@@ -44,3 +44,11 @@ And Select **Patches**
 	
 **The same can be done inside the Cheats menu to view what cheats are available for your games**      
 ![-](imgs/9.jpg)    
+     
+	    
+# 1. [Guides Thread](https://github.com/DrYenyen/Guide-Links-For-PS4)                
+# 2. [How to manually update PS4 firmware](https://github.com/DrYenyen/PS4-Firware-Update-Guide)                     
+# 3. [How to install FPKGS](https://github.com/DrYenyen/How-To-Install-PS4-FPKGS)                  
+# 4. [How to set up PPPwn on a OpenWRT compatible router(by FalsePhilosopher)](https://github.com/FalsePhilosopher/PPPwnWRT)           
+# 5. [How to set up Raspberry-Pi on Windows for PPPwn](https://github.com/DrYenyen/PPPwn-Setup-Guide-For-Raspberry-Pi)         
+      	   
