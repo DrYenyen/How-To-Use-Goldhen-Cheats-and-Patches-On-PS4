@@ -1,5 +1,7 @@
-# How-To-Use-Cheats-On-PS4
-How to use cheats on PS4 games    
+# How-To-Use-Cheats-and-Patches-On-PS4
+#NOTICE    
+The Cheat Menu is experimental, use with caution.
+Make Backups of your save files with Apollo Save Tool> [Apollo Save Tool](https://pkg-zone.com/details/APOL00004)   
 
 # How to install the Cheats, Patches and Plugins   
 1. Download the Cheats Zip from this link > [Cheats](https://github.com/GoldHEN/GoldHEN_Cheat_Repository/archive/refs/heads/main.zip)        
