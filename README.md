@@ -33,7 +33,7 @@ Then back out and go into **Plugin Settings** and match up all the settings as s
 Once you Launch a game you can Long Press the PS button and the cheat menu will show up   
 Some games have multiple pages of cheats and you can scroll through them using R1 and L1    
 Some cheats require MC or Master Code to be enabled    
-14. How to use Patches    
+14. **How to use Patches**      
 Go into the PS4 Cheats Manager    
 And Select **Patches**    
 ![-](imgs/8.jpg)    
