@@ -42,5 +42,5 @@ And Select **Patches**
 **Once inside press Triangle to filter and find all the Patches compatible with your currently installed games**    
     
 	
-**The same can be done inside the Cheats menu to view what cheats are available for your game**      
+**The same can be done inside the Cheats menu to view what cheats are available for your games**      
 ![-](imgs/9.jpg)    
