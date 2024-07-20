@@ -3,6 +3,13 @@
 The Cheat Menu is experimental, use with caution.   
 Make Backups of your save files with Apollo Save Tool> [Apollo Save Tool](https://pkg-zone.com/details/APOL00004)   
 
+# BEFORE DOWNLOADING GAME DUMPS READ      
+Cheats are not made compatible with every region or game update version. Check the Cheats zip for easiest compatability.   
+     
+You are able to edit the cheats to try and make them work with the same game but a different region or game update but results will vary.    
+Guide for Cheat editing is WIP     
+      
+
 # How to install the Cheats, Patches and Plugins   
 1. Download the Cheats Zip from this link > [Cheats](https://github.com/GoldHEN/GoldHEN_Cheat_Repository/archive/refs/heads/main.zip)        
 2. Download the Pathes Zip from this link > [Patches](https://github.com/GoldHEN/GoldHEN_Patch_Repository/raw/gh-pages/patch1.zip)  
