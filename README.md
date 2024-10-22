@@ -39,7 +39,7 @@ Then back out and go into **Plugin Settings** and match up all the settings as s
 ![-](imgs/7.jpg)   
 **Notice** if you cannot tick **Enable Game Patch Plugin** then you have not setup the PS4 Cheats Manager app correctly or it failed to locate the 3, Zip files follow from Step 10, to refresh the databases manually       
 13. **How to use Cheats in game**      
-Once you Launch a game you can Long Press the PS button and the cheat menu will show up   
+Once you Launch a game you can Long Press the Share button and the cheat menu will show up   
 Some games have multiple pages of cheats and you can scroll through them using R1 and L1    
 Some cheats require MC or Master Code to be enabled    
 14. **How to use Patches**      
