@@ -1,7 +1,8 @@
 # How-To-Use-Cheats-and-Patches-On-PS4
-#NOTICE    
+# NOTICE    
 The Cheat Menu is experimental, use with caution.   
 Make Backups of your save files with Apollo Save Tool> [Apollo Save Tool](https://pkg-zone.com/details/APOL00004)   
+GoldHEN version 2.3 or above is required.
 
 # BEFORE DOWNLOADING GAME DUMPS READ      
 Cheats are not made compatible with every region or game update version the same applies for Patches. Check the Cheats/Patches zip for easiest compatability.   
